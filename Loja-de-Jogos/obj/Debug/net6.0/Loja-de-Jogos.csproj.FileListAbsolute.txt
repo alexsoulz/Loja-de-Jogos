@@ -1,0 +1,15 @@
+C:\Code\Loja-de-Jogos\Loja-de-Jogos\bin\Debug\net6.0\Loja-de-Jogos.exe
+C:\Code\Loja-de-Jogos\Loja-de-Jogos\bin\Debug\net6.0\Loja-de-Jogos.deps.json
+C:\Code\Loja-de-Jogos\Loja-de-Jogos\bin\Debug\net6.0\Loja-de-Jogos.runtimeconfig.json
+C:\Code\Loja-de-Jogos\Loja-de-Jogos\bin\Debug\net6.0\Loja-de-Jogos.dll
+C:\Code\Loja-de-Jogos\Loja-de-Jogos\bin\Debug\net6.0\Loja-de-Jogos.pdb
+C:\Code\Loja-de-Jogos\Loja-de-Jogos\obj\Debug\net6.0\Loja-de-Jogos.csproj.AssemblyReference.cache
+C:\Code\Loja-de-Jogos\Loja-de-Jogos\obj\Debug\net6.0\Loja-de-Jogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Loja-de-Jogos\Loja-de-Jogos\obj\Debug\net6.0\Loja-de-Jogos.AssemblyInfoInputs.cache
+C:\Code\Loja-de-Jogos\Loja-de-Jogos\obj\Debug\net6.0\Loja-de-Jogos.AssemblyInfo.cs
+C:\Code\Loja-de-Jogos\Loja-de-Jogos\obj\Debug\net6.0\Loja-de-Jogos.csproj.CoreCompileInputs.cache
+C:\Code\Loja-de-Jogos\Loja-de-Jogos\obj\Debug\net6.0\Loja-de-Jogos.dll
+C:\Code\Loja-de-Jogos\Loja-de-Jogos\obj\Debug\net6.0\refint\Loja-de-Jogos.dll
+C:\Code\Loja-de-Jogos\Loja-de-Jogos\obj\Debug\net6.0\Loja-de-Jogos.pdb
+C:\Code\Loja-de-Jogos\Loja-de-Jogos\obj\Debug\net6.0\Loja-de-Jogos.genruntimeconfig.cache
+C:\Code\Loja-de-Jogos\Loja-de-Jogos\obj\Debug\net6.0\ref\Loja-de-Jogos.dll
